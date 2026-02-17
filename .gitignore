@@ -36,7 +36,6 @@
 *.mod.c
 *.o
 *.o.*
-*.patch
 *.rmeta
 *.rsi
 *.s
@@ -133,7 +132,6 @@ GTAGS
 # id-utils files
 ID
 
-*.orig
 *~
 \#*#
 
